@@ -1,0 +1,9 @@
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\bin\Debug\MethodOfMak.exe
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\bin\Debug\MethodOfMak.pdb
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.Form1.resources
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.Properties.Resources.resources
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.exe
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[0]Математические методы\[0]Метод Мака\Program\MethodOfMakWindowsFormsVersion\MethodOfMak\MethodOfMak\obj\Debug\MethodOfMak.pdb

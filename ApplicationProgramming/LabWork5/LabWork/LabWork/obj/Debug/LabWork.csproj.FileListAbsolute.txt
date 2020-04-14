@@ -1,0 +1,10 @@
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\bin\Debug\LabWork.exe.config
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\bin\Debug\LabWork.exe
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\bin\Debug\LabWork.pdb
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.Form1.resources
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.Properties.Resources.resources
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.exe
+C:\Users\Админ\Desktop\ROOT\[0]Study\[1]College\[0]3_курс\[6]Прикладное программирование\[0]Программы\[0]LabWork5\LabWork\LabWork\obj\Debug\LabWork.pdb
